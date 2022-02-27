@@ -1,0 +1,225 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration or testimony given by Captain Robert Norwood under his hand, (the which was by him publickly read at a meeting in Ab-church before Mr. Sidrack Simpson together with many others;) April 21. 1651. Together with several his answers and desires, proposed to them for satisfaction after his excommunication; worthy the most serious consideration of all: now brought to publick view for clearing of truth, discovering of error, and his own vindication in reference to many unjust and untrue aspersions cast upon him.</title>
+            <author>Norwood, Robert, Captain.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89757</idno>
+            <idno type="STC">Wing N1381</idno>
+            <idno type="STC">Thomason E632_1</idno>
+            <idno type="STC">ESTC R20899</idno>
+            <idno type="EEBO-CITATION">99867901</idno>
+            <idno type="PROQUEST">99867901</idno>
+            <idno type="VID">165867</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89757)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165867)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 97:E632[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration or testimony given by Captain Robert Norwood under his hand, (the which was by him publickly read at a meeting in Ab-church before Mr. Sidrack Simpson together with many others;) April 21. 1651. Together with several his answers and desires, proposed to them for satisfaction after his excommunication; worthy the most serious consideration of all: now brought to publick view for clearing of truth, discovering of error, and his own vindication in reference to many unjust and untrue aspersions cast upon him.</title>
+                  <author>Norwood, Robert, Captain.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year 1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 9".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Simpson, Sidrach, 1600?-1655.</term>
+               <term>Norwood, Robert, --  Captain.</term>
+               <term>Excommunication --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165867:1" rendition="simple:additions"/>
+            <p>A DECLARATION Or Teſtimony given by Captain ROBERT NORWOOD Under his hand, (the which was by him publick<g ref="char:EOLhyphen"/>ly read at a meeting in Ab-church before Mr. Sidrack Simpſon together with many others;)</p>
+            <p>April 21. 1651.</p>
+            <p>Together with ſeveral his anſwers and deſires, propoſed to them for ſatisfaction after his <hi>EXCOMM<g ref="char:V">Ʋ</g>NICATION;</hi>
+            </p>
+            <p>Worthy the moſt ſerious conſiderati<g ref="char:EOLhyphen"/>on of all: Now brought to publick view for clear<g ref="char:EOLhyphen"/>ing of truth, diſcovering of error, and his own vindication in reference to many unjuſt and untrue aſperſions caſt up<g ref="char:EOLhyphen"/>on him.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the year 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165867:2"/>
+            <pb n="1" facs="tcp:165867:2"/>
+            <head>A DECLARATION <hi>Or Teſtimony given by Captain</hi> ROBERT NORWOOD Under his hand, (the which was by him publick<g ref="char:EOLhyphen"/>ly read at meeting in Ab-church before Mr. Sidrack Simpſon together with many others;) April 21. 1651.</head>
+            <argument>
+               <p>Wherein is laid downe his beliefe concerning God, what he is, who Chriſt is; and what the Spirit is; what the ſoul is; what the body and ſpirit of man is; and alſo his beliefe concerning the reſurrecti<g ref="char:EOLhyphen"/>on: With certain quere's prepoſed concerning what the Divell Sa<g ref="char:EOLhyphen"/>tan or Serpent is? what Antichrist, the falſe prophet or dragon is? what the true and very Chriſt is? Now brought to publick view for clearing of truth, diſeovering of erro, and his own vindicati<g ref="char:EOLhyphen"/>on in reference to many unjuſt and untrue Aſperſions caſt upon him.</p>
+            </argument>
+            <p>I Do beleeve one God, or one infinite eternal being, which onely or alone gives a being to all things that are, in whom, from whom, and by whom, all things do confiſt, exſiſt and ſubſiſt, he to be unchange<g ref="char:EOLhyphen"/>able or immutable, whoſe eſſence and preſence is e<g ref="char:EOLhyphen"/>very where, yet comprehended no where, be onely having life in himſelfe and is the alone life of all things, whether viſible or inviſible; in him I verily beleeve there is not the leaſt variation, or ſhadow of change, for he I or <hi>I am:</hi> That this ſame infinite, eternal one hath given a three-fold declaration or manifeſtation of himſelfe in One.</p>
+            <p>I do farther beleev, according to the Scriptures, the decla<g ref="char:EOLhyphen"/>ration manifeſtation or outgoing of this infinit, eternal be<g ref="char:EOLhyphen"/>ing in or by the word in infinite wiſdome and power in creation, according to that which is written, That by it all things were made, and without it was made nothing that was made; which is alſo called Chriſt or the firſt borne or onely begotten of the Father, or the Anointed or anoining of God; in which reſpect, he is ſaid to be the life and light
+<pb n="2" facs="tcp:165867:3"/>
+of the world, as indeed he is, which I ſtedfaſtly beleeve; and that this light (as it's written) ſhineth in the darkneſſe, though the darkneſſe comprehend it not; and that he was in the world, and the world was made by him, though the world knew him not; that he came to his own though his own received him not: the ſame Chriſt I ſtedfaſtly beleeve to be my onely and alone light and life and ſalvation; and ſo much and ſo far as I have attained, him or it or rather he or it, is riſen up or brought forth, it or himſelfe in me, ſo far I judge my ſelfe to live or be alive or ſaved, or to have attained ſalvation and no farther: and what ever elſe is in me, I take to be of the fleſh, the devill or darkneſſe, or ſin or hell, antichriſt or of the falſe prophet: for that which is borne of the fleſh is fleſh, and that which is borne of the ſpi<g ref="char:EOLhyphen"/>rit is ſpirit. That this Chriſt, Word, or Son is One with the Father in the Spirit, I alſo ſtedfaſtly beleeve.</p>
+            <p>I do farther beleeve concerning the Spirit, or Holy Ghoſt as its called, that it infinitely and eternally proceeded from the Father and the Son, and that he is the immediate life and being of all things, and is the alone true witneſſe bearer to the father and the ſon <hi>John</hi> 5, 6. and neither Father nor Son, yet both Father and Son, not three but One: One intire, ſimple, undivided being in themſelves; whence in Scripture he is called ſometimes the ſpirit of the father or God, and ſometimes the ſpirit of Chriſt; in or by which ſpirit we have communion with the Father and the Son: he in us, we in him are by it made perfect in one; which alſo is more or moſt properly called the ſpirit of truth; or rather the ſpirit which is truth: he onely and alone leading into all truth, or the all of all truth which is God himſelfe.</p>
+            <p>Concerning that we call main, <hi>Paul</hi> diſtinguiſhes into three: ſoul, body, and ſpirit. The ſoul I take or beleeve to be of the divine eſſence: for it's ſaid, God breathed into him the breath of life, and he or it became a living ſoul: for ſo the Scripture renders the divine principle, ſometimes he, ſome<g ref="char:EOLhyphen"/>times it; and indeed, that which is there ſaid to be breathed into man, I cannot conceive to be leſſe or other then his own eſſence or ſpirit, there being nothing but himſelfe, to go forth from and in himſelf un<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ous: he in his Son by his Spi<g ref="char:EOLhyphen"/>rit, ſtating himſelf in us though in weakneſſe, called elſe<g ref="char:EOLhyphen"/>where his Image, or Spirit; as where its ſaid, My ſpirit ſhall
+<pb n="3" facs="tcp:165867:3"/>
+not alway ſtrive with man: for that he alſo is fleſh. It's cal<g ref="char:EOLhyphen"/>led alſo the ſpirit of truth or which is truth, true holineſs or truth in holineſſe and righteouſneſſe: which image or life of God in man, is confeſt by all or moſt if I miſtake not neither was nor could be totaly or finaly loſt, though much defaced as they call it: And truly (as I conceive) there muſt be, and is a perfect truth in every created Creature accord<g ref="char:EOLhyphen"/>ing to its kind, which is the inviſible life and being of it, the viſibility being onely a repreſentation or figure of the inviſible life and glory, according to that in the <hi>Romans,</hi> That which may be knowne of God, is manifeſt in them: for God hath ſhewed it unto them: for the inviſible things of him, that is, hiseternal power and God-head are ſeen by the crea<g ref="char:EOLhyphen"/>tion of the world, being conſidered in his workes, to the intent they ſhould be without excuſe. By the God-head muſt be there meant Trinity in Unity &amp; Unity in Trinity; yet every thing in its order, kinde or end, according to what he hath appointed every veſſel to hold forth of himſelf, accord<g ref="char:EOLhyphen"/>ing to that in the <hi>Corinths, where</hi> it is ſaid, that there are <hi>bodies</hi> heavenly, and bodies earthly; and that the glory of the hea<g ref="char:EOLhyphen"/>venly is one, and theglory of the earthly is another; and that one ſtar differeth from another in glory yet all theſe but one in the union, according to that <hi>Paul</hi> ſpeakes in an<g ref="char:EOLhyphen"/>other place, that there are ſeveral gifts and adminiſtrations, yet but one ſpirit, and all by one and the ſame ſpirit; which perfect and inviſible truth cannot be leſſe or other then the divine eſſence: Man carrying the beautious tranſparent ſplendor of the repreſentation in this earthly creation; yet is not God the Creature, nor the Creature God: for we muſt hold God and the created by God for could you ſpeak all; the inviſible glories <hi>ſhadowed</hi> or held forth in the whole vi<g ref="char:EOLhyphen"/>ſible creation, you could not ſpeake God: for he is all things yet nothing: <hi>He is;</hi> which ſhort word, if truly known and un<g ref="char:EOLhyphen"/>derſtood, ſpeaks him moſt. And indeed, were this light, life, or image or God in man, wholly extinct, man would become more brutiſh then the beaſts; which that it is not, appears plainly to me from that place where it is written, That the Gentiles who have not the law, do the things contained in he law; which ſhew the effects of the law written in their hearts, their conſciences bearing witneſſe, &amp; their thoughts accuſing or excuſing one another.</p>
+            <pb n="4" facs="tcp:165867:4"/>
+            <p>For the ſpirit of man or man's naturall ſpirit, It's that if I miſtake not, which is called the Devill, or Satan, or Ser<g ref="char:EOLhyphen"/>pent, or Anti-Chriſt, or falſe prophet, or ſpirit of darkneſſe, or death, or ſinne, or hell, <hi>James 1. 14, 15. But every man is tempted, when he is drawn away of his own luſt, and entiſed. Then when luſt hath conceived, it bringeth forth ſinne: and ſinne, when it is fi<g ref="char:EOLhyphen"/>niſhed bringeth forth death.</hi> Hence Chriſt teſts the Scribes and Phariſees, they <hi>are of their father, the Devil, and his works</hi> they do who was a lier or deceiver from the beginning: hence alſo ſome are called dogs, ſome foxes, ſome wolves in ſheepes-<hi>clo<g ref="char:EOLhyphen"/>thing:</hi> and <hi>Paul</hi> is ſaid to fight with beaſts at <hi>Epheſus:</hi> &amp; Chriſt when tempted by <hi>Peter,</hi> (although a Diſciple) he calls him Satan: Every one or every thing taking its denomination from the property or quality of that ſpirit which hath the major or moſt ruling power and dominion in and over him or it. It's ſaid, here are legions of divels &amp; we ſay, there is a covetous devil, an unclean devill, an envious devil, a wrath<g ref="char:EOLhyphen"/>ful deivl and the like. And ſo it's ſaid, there are many Anti<g ref="char:EOLhyphen"/>chriſts, no one carrying the whoſe fountain in him, though each one be from one fountain: ſo on the contrary, no one hath the whole fountain of life or light in him, (if I may ſo ſpeak) but every one in meaſure according to the good plea<g ref="char:EOLhyphen"/>ſure of him who filleth all in all things. Hence <hi>Paul</hi> ſaith there are babes and ſtrong men in Chriſt: and ſo <hi>John</hi> calls ſome children, ſome fathers, ſome young men: and farther ſaith thus. Little children, let no man deceive you: he that hath righteouſneſſe, is righteous, as he is righteous: he that com<g ref="char:EOLhyphen"/>mitteth ſin, is of the devil for the devil ſinneth from the be<g ref="char:EOLhyphen"/>ginning. For this purpoſe the ſon of God was made ma<g ref="char:EOLhyphen"/>nifeſt, that he might deſtroy the works of the devil. Who<g ref="char:EOLhyphen"/>ſoever is borne of God, doth not commit ſin: for his ſeed remaineth in him and he cannot ſin becauſe he is borne of God And hence <hi>Paul</hi> alſo, It's not I, but Chriſt in me. And againe It's not l, but ſin in me. And the Scripture every where comprehends all under theſe two ſtates or termes of light and darkneſſe, the natural man, and the ſpiritual man children of light or life, and children of death and dark<g ref="char:EOLhyphen"/>neſſe, according to the rule, power or government each ſpi<g ref="char:EOLhyphen"/>rit hath in them. Wherefore it's ſaid, Know you not, that to whomſoever you give your ſelves as ſervants to obey, hti
+<pb n="5" facs="tcp:165867:4"/>
+ſervants you are to whom ye obey, whether it be of ſin unto death, or of obedience unto righteouſneſſe? Againe it's writ<g ref="char:EOLhyphen"/>ten you who were darkneſſe, are now become light; you who were dead in treſpaſſes and ſins hath he now quickned, and tranſlated into the Kingdome of Chriſt: and that we are riſen together with Chriſt; and that he is our reſurrecti<g ref="char:EOLhyphen"/>on &amp; glory: and that he hath raiſed us up, and <hi>made us</hi> ſit to<g ref="char:EOLhyphen"/>gether in the heavenly places or things in Chriſt. And in the ſame 2. to the Ephe. This ſpirit in man is called the ſpirit or Prince that ruleth in the aire, which indeed is an airy, lying notion ſwimming in the head or braine of man, ha<g ref="char:EOLhyphen"/>ving no foundation or roote in God who is truth, but is al<g ref="char:EOLhyphen"/>way at enmity with it. We are alſo ſaid to be dead whilſt we live. From all which I conceive, the chief, if not the one<g ref="char:EOLhyphen"/>ly reſurection pointed unto and intended in Scripture, is our riſing up out of that death and darkneſſe, or hell we were held in or kept under by: or rather Chriſt who is our light, our life, our all in all, ariſing in his owne life, light, power and glory in us, ſwallowing up or deſtroying death, darkneſſe, ſin, hell and what ever elſe is contrary to or againſt him and us and ſo bringing us in and with him<g ref="char:EOLhyphen"/>ſelf into that glory he had in and with the Father before the world was. Wherefore it's ſaid, The kingdome of heaven is within you: &amp; when they ſay, lo here, lo there, beleev it not. But I expect not, neither think this will be in its height and full perfection till the ſeparation by that we call death, it be accompliſhed and compleated, not whilſt in theſe earthly tabernacles, not until we have laid off all our earthly garments, and be clothed upon of him who is indeed our true clothing; which made <hi>Paul</hi> ſo grone with deſire thereof: indeed the Saints are unclothing dayly and marvelous unclothings and clothings are at hand.</p>
+            <p>For the body which is indeed beaſtial, of the ſame nature and ſubſtance with the beaſts, I conceive and beleeve; it alſo ſhall have its reſurrection in its kinde, together with other of the like kinde, according to that in the firſt of the <hi>Co<g ref="char:EOLhyphen"/>rinthes</hi> 15. For to ſpeak properly, nothing dies, that is, an<g ref="char:EOLhyphen"/>nihilated, as many do imagine; but is changed from glory to glory: but for the ſoul to be reunited again to this earth by beaſtial body of fleſh blood, and bones after ſepara<g ref="char:EOLhyphen"/>tion,
+<pb n="6" facs="tcp:165867:5"/>
+and to live together in ſome one or more place or places, ſome to enjoy eternall happineſſe or ſalvation, and other ſome eternal miſery and damnation; I find no foun<g ref="char:EOLhyphen"/>dation in ſcripture firme enough to build any ſound belief upon: for Chriſt ſaith, In the reſurrection there is no marry<g ref="char:EOLhyphen"/>ing nor giving in marriage, but that they are as the Angels in heaven. Then no eating, nor drinking, except of that ſpiritual <hi>rock</hi> or <hi>Manna.</hi> Then ſure no fleſh, blood or bones. And as ſure it is, that in no proper or true ſence whatſoever can fleſh and blood inherit the kingdome of heaven: for it luſteth or is at enmity againſt the ſpirit: wherefore I ſay, this doctrine deſerves not only to be exploded the ſchools, but excommu<g ref="char:EOLhyphen"/>nicated all Churches. For he who maketh or worketh a ly, ſhall be ſhut out of the new Jeruſalem; as alſo he who would ſit in the temple of Chriſt, as if he were Chriſt, as if he were the true Anointed or Anointing, who will have others to beleeve as he beleeves, for no other reaſon, but becauſe he beleeves ſo; forgetting that Chriſt, as he is the life, ſo he is the light of every one that comes into the world, &amp; that <hi>none</hi> can come to the Father but by the Son: nor none unto the <hi>Son</hi> but by the Spirit, which 3. are one in the unione.</p>
+            <p>For farther manifeſtation and clearing of the truth, I de<g ref="char:EOLhyphen"/>ſire in all humbleneſſe of minde and meekneſſe of ſpirit, in reference to my own and others ſatisfaction, in a ſober &amp; or<g ref="char:EOLhyphen"/>derly way, an anſwer to theſe following quere's.</p>
+            <p n="1">1. What that Devil or Serpent was, that is ſaid to deceive <hi>Eve;</hi> his, or its nature and property what it is?</p>
+            <p n="2">2. Whether properly and truly there can be ſaid to have beene, or is, any more then one devil, ſerpent, Satan or deceiver; though he or it manifeſt it ſelfe ſeveral wayes, and after divers manners?</p>
+            <p n="3">3. What the true and very Anti-Chriſt, or falſe prophet is; their nature, property or quality what it is?</p>
+            <p n="4">4. Where the true and proper ſeate, reſidence, power or dominion of the devil, Satan, Serpent, deceiver, or Dragon is, or this falſe Chriſt, or falſe prophet is?</p>
+            <p n="5">5. Whereby, or wherewith they are ſaid to deceive, or wherein the power or ſtrength of their, or it's temptation or deceit lyes?</p>
+            <p n="1">1. What the true and very Chriſt is, who is ſaid in Scri<g ref="char:EOLhyphen"/>pture
+<pb n="7" facs="tcp:165867:5"/>
+to be the onely and alone light and life of the world?</p>
+            <p n="2">2. How, and in what ſence he is properly, and truly ſaip to deliver us from ſin, death, and hell?</p>
+            <p n="3">3. The true, reall and very ground, cauſe and end of his ſufferings, death or deſolution, reſurrection, and aſcenſi<g ref="char:EOLhyphen"/>on; as alſo his incarnation and interceſſion what they ſig<g ref="char:EOLhyphen"/>fy or hold forth to us, and how or in what manner or ſence, we are to look upon them, and what uſe we are to make of them, ſince the ſcriptures both old and new are ve<g ref="char:EOLhyphen"/>ry myſterious, as where Chriſt ſaith, Except ye eat my fleſh, &amp; drink my blood, you have no life in you: and that he was that rock that followed them, and that <hi>Manna</hi> that came down from heaven; And <hi>Paul</hi> ſaith, although he had known Chriſt after the fleſh (which could not be meant of a cor<g ref="char:EOLhyphen"/>poral knowledge) yet henceforth would he know him ſo no more: and he farther ſaith, That Chriſt is the ſame yeſter<g ref="char:EOLhyphen"/>day, to day, and for ever?</p>
+            <p>An anſwer whereunto I deſire on this day ſennit, here in this place before all the people in writing, or elſe ſome o<g ref="char:EOLhyphen"/>ther may in love, peace and quietneſſe, have liberty to give anſwer thereunto.</p>
+            <p>And I do farther declare, what ever man or men, re<g ref="char:EOLhyphen"/>port, accuſe, or charge me with blaſphemy, or any error or errors maintain<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d countenanced orencouraged by me, or any other thing or matter contrary to or againſt the laws of this Nation, or prejudicial to this State or Common-wealth, and do not duly prove the ſame againſt me, is in the ſight of God and man a ſlanderer, back-biter and murderer: and in caſe any the ſaid crime, or crimes be proved againſt me, I ſhall deſire no favour; but ſhall willingly and readily give up my ſelfe, to undergo and ſuffer what penalty or penalties ſoe. ever by law, is to be inflicted in ſuch caſes without the leaſt partiality.</p>
+            <div type="postscript">
+               <head>POSTSCRIPT.</head>
+               <p>To which <hi>Queres</hi> I could not obtain from Mr. <hi>Simpſon</hi> any anſwer, nor ſo much as whether he would, or could anſwer them or no? whether he did leſs then bely or blaſpheme God <hi>before</hi> all the people, I will not, let them preſent judge. And if I prove not him &amp; the Clergy of <hi>England</hi> generally, who cry out of others for hereſie &amp; blaſphem<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> greateſt deceivers, or falſifiers of the truth, and Blaſphemers (as themſelves call it) in the Nation, let me dy the death.</p>
+               <pb n="9" facs="tcp:165867:6"/>
+               <p>This I ſpeake not to caſt reproach, diſgrace or obloquie, upon any ingenuous, ſober, quiet, peaceable-minded man or men; but to ſtop the career of that ſpirit, which drives more fariouſly to the ingaging the people more in blood, then the Biſhop did, were their power and other advanta<g ref="char:EOLhyphen"/>ges anſwerable. Let therefore the moderation of your ſpi<g ref="char:EOLhyphen"/>rits appeare and judge not leaſt you be judged: for aſſured<g ref="char:EOLhyphen"/>ly you are guilty of as great, if not greater crimes then o<g ref="char:EOLhyphen"/>ther men.</p>
+               <p>But ſtand ſtill and be quiet in your ſelves, that you may ſee the great ſallvation the Lord is about to bring forth.</p>
+               <p>Be truly noble, ſearch as the Bereans did whether the things be ſo or no.</p>
+               <p>It were much to be deſired, that the Clergy might once more be injoyned to aſſemble together, to give an account to the people (of whom and from whom they have received and taken ſo much of the ſweat of their browes) what that true very God and Chriſt is that they have ſo long talked of to the people. It mayjuſtly be ſuſpected from their <hi>preachings</hi> and practiſes, that they have need of a <hi>Paul</hi> to ſhew them what that God and Chriſt is, whom they ignorantly wor<g ref="char:EOLhyphen"/>ſhip; leaſt the blind leading of the blinde both fall into the ditch.</p>
+               <p>To them all I propoſe theſe quere's, hoping it will not be long before they ſhall receive anſwer under a known hand, they being concerning ſuch points in which they are daily converſant; if not, they muſt give the people leave to ſay, there is little reaſon to continue the wages or ſtipends of ſuch ſtewards, who can give no account of their ſteward<g ref="char:EOLhyphen"/>ſhip.</p>
+               <p>Or to beleeve them the true Embaſſadours of God and Chriſt when as they cannot tell us what their Lord and matter is. Let them then forbear any more to binde the peo<g ref="char:EOLhyphen"/>ple to their faith and beleefe, ſince themſelves cannot give an account or reaſon of their own faith and hope that is in them. Tell us alſo, O ye dreamers, where and what your <hi>Hell</hi> and <hi>Heaven is: I acknowledge both.</hi>
+               </p>
+               <closer>
+                  <signed>Robert Norwood.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="text">
+            <pb n="8" facs="tcp:165867:6"/>
+            <head>For Maſter SIDRACK SIMPSON.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>Nſtead of anſwering my <hi>Queries</hi> pro<g ref="char:EOLhyphen"/>poſed, or from Scripture duely pro<g ref="char:EOLhyphen"/>ving my aſſertions, errors. I under<g ref="char:EOLhyphen"/>ſtand that you with your Church (as you call it) have excommunicated me, I having long before come out from you, having of my ſelf left communion with you, neither could I without ſin any longer upon that account, hold communion or fellowſhip with you, the ground and reaſon whereof I forbear to publiſh at preſent, becauſe I will yet ſpare you. You have alſo as I hear, given me up to the Devill, I therefore do here before all this people require of you, whoſe duty I ſuppoſe they will all ſay it is, to inſtruct, teach and tell me, what that Devil is to whom you have ſo given me up, hoping you are not ſo igno<g ref="char:EOLhyphen"/>rant as to give me up to him whom you know not, or what his properties and qualities are?</p>
+            <p>And then, what it is you have ſo given up, whether the whole; <hi>Soul, body and ſpirit? or what part, power or ſaculty you have given up?</hi>
+            </p>
+            <pb n="10" facs="tcp:165867:7"/>
+            <p n="3">3. <hi>What power, right and authority you had ſo to do?</hi>
+            </p>
+            <p n="4">4. <hi>Whether you have power again to deliver me from the devill?</hi>
+            </p>
+            <p>Thereaſon why I require this, is that I might get from under his power and dominion, a<g ref="char:EOLhyphen"/>void and be delivered from his ſnares, wiles and ſubtilties, as I and all people ought to do.</p>
+            <p>Next, I require for how long, or untill what time you have given me up to the Devil? If you ſay, untill I repent; you muſt then firſt prove from ſcripture, that that which I have aſſerted, is to be re<g ref="char:EOLhyphen"/>pented of and turned from, and the contrary to be received, embraced, owned and walked in; which is indeed true repentance, which yet you have not done, as you ought to do, before you make any ſuch proceedings againſt any.</p>
+            <p>Now I do here ſolemnly promiſe before all the people, that if you ſhall from Scripture prove the things ſuch, where of you did accuſe me, and I under my hand have aſſerted; that I will ſo farre as God ſhall enable me, truly repent &amp; turn from the ſame, &amp; under my hand <hi>publiſh</hi> my recantation till which time, I may not reced from the things; leaſt I be found in the ſight of God, &amp; man a deſertor of that truth, God by his ſpirit in the Scriptures hath made known to me; as alſo an eminent and evident <hi>brea<g ref="char:EOLhyphen"/>ker</hi> of that firſt and great command, which ſaith, <hi>Thou ſhall worſhip the Lord thy God, with all thine heart, and him only ſhalt thou hear and ſerve;</hi> and become a hearer, ſerver or worſhipper of men, or the falſe or lying ſpirit in men, which is to worſhip the de<g ref="char:EOLhyphen"/>vil: for not to worſhip God or truth, is to worſhip he devil, or a ly.</p>
+            <pb n="11" facs="tcp:165867:7"/>
+            <p>That which you did then charge me with, as er<g ref="char:EOLhyphen"/>ror or blaſphemy, was (as I underſtand) that I held the ſoul to be of the Divine eſſence, or of the eſſence of God.</p>
+            <p>Now I earneſtly deſire, begg and intreate; Nay I do here in the preſence of all this people, require you in the name of our Lord Jeſus Chriſt, whoſe Embaſſadour or Miniſter you ſay you are, and whoſe mind you then muſt needs have; and as you will anſwer it at the great day of his appearing; that you tell, decalre and prove, to me from Scrip<g ref="char:EOLhyphen"/>ture or any other way, that holds <hi>Analogie</hi> there<g ref="char:EOLhyphen"/>with; what in very deed and truth the ſoul is, that ſo I may repent and recant this my error (if it be found ſo) and be delivered from the power of dark<g ref="char:EOLhyphen"/>neſs and of the devil or ſnares of Satan, the very end for which Chriſt his <hi>Ministers</hi> and <hi>Embaſſadors</hi> were ſent, and that in writing; that it may be conſidered, compared with and tryed by the Scriptures and true <hi>Analogie</hi> of our faith, I being very deſirous to forſake all and every error, though carrying never ſo ſpecious a ſhew of truth, though never ſo old or new, profitable or honorable in the worlds eſteem, knowing well what they are, &amp; whence they come and alſo that true ſalvation is only and alone of and in the truth: And that becauſe it's ſtrong above all THINGS, IT, and IT onely being everlaſt<g ref="char:EOLhyphen"/>ing.</p>
+            <p n="2">2. <hi>Secondly, that you prove to me from Scripture, or ſound reaſon, what the ſpirit of man, or man's naturall is.</hi>
+            </p>
+            <p n="3">3. <hi>What the true and very heaven and hell is, ſpoken of in Scripture,</hi> and you from God or Chriſt (as you
+<pb n="12" facs="tcp:165867:8"/>
+ſay) ſo much promiſe to, and threaten the people with, the very right and true knowledge where<g ref="char:EOLhyphen"/>of, is of the greateſt and higheſt concernment to be clearly made known and diſcovered to the people of all other things: all things elſe being but as it were acceſſaries thereunto, therefore certainely muſt needs be known to you, if you be what you ſay you are: yet it's very much to be feared, that very few of you have the true knowledge either of the one or the other, but that moſt fancy both the one and the other, as the <hi>Papiſts</hi> their Purgatory, and the <hi>Poets</hi> their <hi>Eliſian fields,</hi> is a bundantly evi<g ref="char:EOLhyphen"/>dent: Both God and the Devill, both death and life, both heaven and hell, being very much near<g ref="char:EOLhyphen"/>er to us all, then we are aware of.</p>
+            <p>I do therefore again in the love and bowels of Chriſt, intreat and beſeech you for my own and o<g ref="char:EOLhyphen"/>thers ſatisfaction (as you are or pretend to be his Miniſter or Embaſſadour) that I may ſpeedily have anſwer hereunto in writing, as alſo to thoſe for<g ref="char:EOLhyphen"/>mer <hi>Queries</hi> propoſed, that I may not longer con<g ref="char:EOLhyphen"/>tinue in error, and ſo under the power of the Devill or darkneſſe; you have bound your ſelf here unto, not onely by your profeſſion, but eſpecially by that act of yours againſt me: for how ſhall I believe con<g ref="char:EOLhyphen"/>cerning that which I know not? how ſhall I repent, diſclaime or revoke that you charge as error upon me, except you prove it ſo from Scripture? And do not ſay in excuſe, that I diſown you, as having any relation to you; ſince your ſelf have taken that au<g ref="char:EOLhyphen"/>thority upon you, and you ought in this caſe to give an account or reaſon of the faith and hope that is in you, as I have done, who pretend not to any ſuch thing as you do.</p>
+            <pb n="13" facs="tcp:165867:8"/>
+            <p>If you do not, let me tell you, I cannot in rea<g ref="char:EOLhyphen"/>ſon, juſtice or judgement, take or account you for any other then an impoſtor, deceiver and de<g ref="char:EOLhyphen"/>luder of the people, nor will any other ſober, judi<g ref="char:EOLhyphen"/>cious man, neither will they eſteem your excom<g ref="char:EOLhyphen"/>munications of any more <hi>worth</hi> then the <hi>Popes bulls,</hi> which equally with thoſe if not more, in reſpect more is pretended to by you, deſerve to be toge<g ref="char:EOLhyphen"/>ther with your ſelf excommunicated the Nation, and the reſt of your fraternity as the very plagues and peſts of the Nation, the very fire-brands of hell, workers of all miſchief. I ſpeak not to caſt contempt upon any ſober, peaceable-minded man or men, who ſeek and follow the truth in love: no, ſuch I love and honor with my ſoul.</p>
+            <p>All you charged as crime upon me, ſo farre as I can underſtand in reference to my outward conver<g ref="char:EOLhyphen"/>ſation, was, that I ſhould tell a ly in reference to a truſt repoſed in me: to which I often and again before your ſelves and divers others, did ſolemnly proteſt in the Preſence of God, if it were the laſt word I ſhould ſpeak, I ſpeake not the words as ſome preſent conceived I did; and further did de<g ref="char:EOLhyphen"/>clare, that if I did ſpeak them, I was a very knave, rogue, and lier therein; and if I ſhould ſay I did ſpeake them, I muſt ſin againſt my own ſoul, no fal<g ref="char:EOLhyphen"/>ſifying or breach of truſt was found or proved a<g ref="char:EOLhyphen"/>gainſt me.</p>
+            <p>James <hi>ſaith, that the tongue ſets on fire the very courſe of Nature and that it is ſet on fire of hell, where then is hell? and what then are thoſe criers out of Others, for blaſphemers, hereticks and the like? who indeed come
+<pb n="14" facs="tcp:165867:9"/>
+nearer the truth,</hi> and give a better account thereof then themſelves can or will do. Judge O England! Nay, Judge O all ye Nations, who they have been and are, that have thus ſet <hi>England,</hi> nay all Nati<g ref="char:EOLhyphen"/>ons on fire, as at this day; and at whoſe hands that abundance of bloud which hath been ſhed ſhall be required!</p>
+            <p>Where I ſpeak of the ſpirit of man or mans natu<g ref="char:EOLhyphen"/>ral ſpirit I do not meane it was made ſuch as is there expreſt; no, but no ſooner made but it became ſuch, and remaines ſuch until renued, in lightned, or born again: wherfore <hi>Paul</hi> ſaith, be renued in the ſpirit of <hi>your</hi> mind, being in your own ſpirit in which you are fallen and gone from God, from life and ſalvation and ſo become dead, b<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſtiall and deviliſh of ſinne and hell; be as you were at firſt, return to your life: this is indeed that Prodigall, that having gotten his ſtock would now live and be of himſelf, he <hi>would</hi> not that God ſhould be all<g ref="char:punc">▪</g> he nothing, but in him, but he would be in and of himſelf: and this that god of the world, that devill, that beaſt, that ſer<g ref="char:EOLhyphen"/>pent, that dragon that hitherto hath had the chief government of the world, even mans naturall ſpi<g ref="char:EOLhyphen"/>rit, which is at this day much heightned and im<g ref="char:EOLhyphen"/>proved: but God is comming to deſtroy both it, and all its ſeeming gloricus erections, together with that Antichriſt, man of ſinne, and falſe Prophet.</p>
+            <closer>
+               <signed>ROBERT NORWOOD.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
